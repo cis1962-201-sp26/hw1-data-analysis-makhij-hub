@@ -216,7 +216,7 @@ function summaryStatistics(cleaned) {
 
     for (const review of cleaned) {
         if (review.app_name === mostReviewedApp) {
-            const device = review.device_type; 
+            const device = review.device_type;
             deviceCounts[device] = (deviceCounts[device] || 0) + 1;
             totalRating += review.rating;
             reviewCount++;

@@ -3,10 +3,12 @@
 # Homework 1: Data Analysis Reflection
 
 ## How many hours did you spend working on this homework?
+
     2-3. Mostly of that time was spent familiarizing myself with the language and papaparse
 
 ## What challenges/roadblocks did you face during this homework?
-    This is my first time using Javascript, it took me a bit to figure out how to work with the dictionary objects and the truthiness/falsinees, as well as the dynamic names for variables. All of these were realtively new topics for me, so it took me a bit to get used to. 
+
+    This is my first time using Javascript, it took me a bit to figure out how to work with the dictionary objects and the truthiness/falsinees, as well as the dynamic names for variables. All of these were realtively new topics for me, so it took me a bit to get used to.
 
 ## Did you use AI/LLM tools for this assignment? If so, please provide a transcript or document your usage extensively below. If you did use AI, please explain why you decided to use AI for the task you used it for.
 
